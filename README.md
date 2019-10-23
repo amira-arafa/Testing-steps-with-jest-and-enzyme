@@ -5,7 +5,7 @@
     "test": "jest --config ./jest.config.json",
     "test:watch": "npm run test --watchAll"
   },
-  
+  a3ml file jest.confic.json 
   a7ot gowah -->>
   {
     "testRegex": "((\\.|/*.)(spec))\\.js?$",
